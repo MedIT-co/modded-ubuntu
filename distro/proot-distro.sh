@@ -1,4 +1,4 @@
-#!@TERMUX_PREFIX@/bin/bash
+#!@TERMUX_PREFIX@/bin/zsh
 ##
 ## Source : https://github.com/termux/proot-distro
 ##
